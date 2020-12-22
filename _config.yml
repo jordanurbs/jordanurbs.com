@@ -1,10 +1,10 @@
-title: no style, please! # name of the site
-author: Riccardo Graziosi # name of site's author
-email: riccardo.graziosi97@gmail.com # email of site's author
-url: https://riggraz.dev # root address of the site
-baseurl: "/no-style-please" # subpath of the site, e.g. "/blog"
+title: jordanurbs things # name of the site
+author: Jordan Urbanovich # name of site's author
+email: jordanurbs@pm.me # email of site's author
+url: https://jordanurbs.com # root address of the site
+baseurl: "/" # subpath of the site, e.g. "/blog"
 description: > # description of the site (multiple lines allowed)
-  A (nearly) no-CSS, fast, minimalist Jekyll theme.
+  the things of Jordan and his urbs.
 
 permalink: /:slug.html
 

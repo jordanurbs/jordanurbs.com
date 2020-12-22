@@ -2,12 +2,14 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: info
+  - title: about me
     entries:
-      - title: a (nearly) no-CSS, fast, minimalist Jekyll theme.
-      - title: github repo
-        url: https://github.com/riggraz/no-style-please
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: 1988 class piscean model
+      - title: human male father of 1
+      - title: traveling entrepeneur
+        url: https://perceptiontravel.tv
+      - title: networking entrepreneur
+        url: https://pele.io
 
   - title: all posts
     post_list:

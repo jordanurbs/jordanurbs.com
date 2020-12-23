@@ -6,35 +6,35 @@ entries:
     entries:
       - title: 1988 class piscean model
       - title: human male father of 1
-      - title: traveling entrepeneur
-        url: https://perceptiontravel.tv
-      - title: networking entrepreneur
-        url: https://pele.io
+      - title: i tell stories and tinker with technology
 
-  - title: all posts
+  - title: blog newsletter posts
     post_list:
-      limit: 5
+      category: newsletter
+      limit: 20
       show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
-  - title: posts by category
-    post_list:
-      category: example2
-      show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_text: See more...
+      show_more_url: newsletter-archive.html
 
   - title: rss
     url: feed.xml
   
-  - title: another list
+  - title: my business'
     entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
-  - title: PRO TIP
+      - title: perception travel tv
+        url: https://perceptiontravel.tv
+      - title: pele.io
+        url: https://pele.io
+      - title: strengthen
+  - title: my music
     entries:
-      - title: to edit this menu, edit _data/menu.yml file
+      - title: gourshanne
+        url: https://soundcloud.com/jordanurbs/tracks
+      - title: jordanccordion
+        url: https://youtube.com/jordanaccordion
+  - title: my video
+    entries:
+      - title: perception travel tv
+        url: https://perceptiontravel.tv  
+      - title: jordanurbs yt
+        url: https://youtube.com/jordanurbs

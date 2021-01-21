@@ -19,7 +19,7 @@ entries:
   - title: rss
     url: feed.xml
   
-  - title: my business'
+  - title: projects
     entries:
       - title: perception travel tv
         url: https://perceptiontravel.tv
@@ -27,13 +27,13 @@ entries:
         url: https://pele.io
       - title: strengthen (w-i-p for 2021)
         url: https://strengthen.pele.io
-  - title: my music
+  - title: music
     entries:
       - title: gourshanne
         url: https://soundcloud.com/jordanurbs/tracks
       - title: jordanccordion
         url: https://youtube.com/jordanaccordion
-  - title: my video
+  - title: video
     entries:
       - title: perception travel tv
         url: https://perceptiontravel.tv  

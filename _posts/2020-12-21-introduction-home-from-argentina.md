@@ -1,6 +1,7 @@
 ---
 layout: post
 category: newsletter
+title: "Home from Argentina! What a year..."
 ---
 
 <em>Hi folks! Friends and family, loved ones of all degree:</em>

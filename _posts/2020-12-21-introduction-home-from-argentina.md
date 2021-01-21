@@ -41,7 +41,8 @@ The only bummer was that we would have to return to Argentina for her official i
 
 On January 5, 2020, we had a big celebration. Partly to see my loved ones and bid them farewell for now, partly to welcome Lau to the family, partly to celebrate the upcoming baby boy. Loved ones from all over came to dance, sing, eat and be merry with our assortments of awkward, interactive ceremonies (I always thought weddings were too staged and weird). 
 
-<a name="video"></a><iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://perceptiontravel.tv/videos/embed/9365c189-5480-4faa-8558-91fcd681e5c0?warningTitle=0" frameborder="0" allowfullscreen></iframe>
+<a name="video"></a>
+<iframe width="560" height="315" sandbox="allow-same-origin allow-scripts allow-popups" src="https://perceptiontravel.tv/videos/embed/9365c189-5480-4faa-8558-91fcd681e5c0?warningTitle=0" frameborder="0" allowfullscreen></iframe>
 
 It was a touching way to go out. We could not have felt more connected and loved by our tribe here in southern California. B late that night, after a night of CBD joints and champagne, synchronized dancing games under a waxing moon, an afternoon of friends and family eating rich Ethiopian, Jamaican, Mexican, Italian and Argentine dishes, ceremonially sharing brewed kava root and homemade lemonade with lemons straight from our garden, a ceremonial fire burning bright; after the guests had all gone away, an uneasy feeling swam through my stomach. Lau slept calmly, her breathing the soft rhythm of the high tide, as my body floated peacefully in the bliss rendered of such celebration with my people. Yet a strong intuition deep in my gut was paddling closer, making just enough of a splash amidst the ripples of such a heart-opening day, to urge me to close my eyes and listen…
 Something was telling me it would all be fine if we didn’t go back to Argentina for the birth. 

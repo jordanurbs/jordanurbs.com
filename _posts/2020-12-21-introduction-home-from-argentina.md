@@ -19,10 +19,10 @@ This first message is your opt-in or opt-out moment, an introduction to what is 
 From here on out, I’ll focus my words on single subjects with anecdotes like what Argentina can be like and the struggles I encountered as a North American, a couple experiencing their first pregnancy during a lockdown, crossing town for family dinners while evading trouble in a pandemic police state, entrepreneurship from abroad and getting money into one of the most financially closed-off countries in the world, cross-country road trips with a six-month-old for visits to the U.S. embassy, and a whole lot more. 
 As a therapeutic act of reflection for me, I’ll share with you our story. As a storyteller and artist, I’ll embellish the text with pictures and videos as best as I can. And as someone wishing to connect with you reading this, I’ll receive your questions, comments, or anything else with open arms.
 
-PHOTO
+<img src="../assets/img/laujordan.jpg">
 
-## How We Ended Up In Argentina For A Pandemic
-Lau and I met in Buenos Aires in early 2019. After a decade of rambling (searching for purpose) and experimenting in relationships (seeking companionship) it arrived as an unaccepted surprise that we got along so well. It was so easy after so many years of struggling. Despite the longevity of my “search,” I fought it, and fought myself, until something clicked and I finally allowed myself to love and be loved by her. 
+## How We Ended Up In Argentina For A Pandemic, Pregnant
+Lau and I met in Buenos Aires in early 2019. After a decade of rambling (slash searching for purpose) and experimenting in relationships (seeking companionship) it arrived as an unaccepted surprise that we got along so well. It was so easy after so many years of struggling. Despite the longevity of my “search,” I fought it, and fought myself, until something clicked and I finally allowed myself to love and be loved by her. 
 Not long after, she was pregnant.
 
 To be presented with the option of becoming parents in that particular era of our lives was a chance to make profound change in not simply the way we lived, but the environment in which we lived; a true make-or-break decision. She had been in transition in both her career and personal life, starting her own yin yoga school after leaving a 4-year relationship, wanting to travel for a while before attempting to escape the shit-show that Argentina has become. And I, well… I had never known anything but transition since becoming an adult, and it was beginning to affect my well-being. My back was having new issues every few months and my books and creative projects were getting left at 70% in order to fix my body or hop on a plane/train/automobile in order to travel to what would be my new home for the next few weeks. 

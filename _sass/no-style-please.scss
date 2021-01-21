@@ -142,15 +142,10 @@ select {
        -moz-appearance: none;
             appearance: none;
     background-color: transparent;
-    border: 2px solid #DCE4EC;
-    border-radius: 4px;
     box-shadow: none;
     box-sizing: border-box;
     height: 1.8em;
     padding: .1em .2em;
-    width: 33%;
-    font-size: 1em;
-    font-style: inherit;
 }
 
 input[type='email']:focus,

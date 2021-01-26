@@ -30,6 +30,7 @@ Suffice to say, despite the extra energy and effort required to raise a human, w
 
 That’s how I saw it, anyway.
 
+<img src="../assets/img/jorlauscotland.jpg">
 Fast-forward to the end of 2019. By that time we had traveled together through exotic sights of the world on three different continents. We’d driven through Patagonia to shoot a pitch for a travel series, camped out in a moving van in the Scottish Highlands, traversed the Mediterranean from Venice to Aix via train, bus and automobile, and explored the Pacific beaches of Portugal. We went  on sunset walks through suburban Los Angeles before seeking out plant medicines in the Andes and gluten-free pastries in Cordoba. 
 All throughout, we considered our options for raising a child and starting a family in each place. Lau has Italian citizenship and this opens up our options considerably. For over a decade I’d been attached to the idea that I would never settle in suburban California—in fact for the past few years I’ve had my sights set on the Big Island of Hawaii—but just to be safe, we began the application process for Lau’s K-1 Fiance Visa to obtain her green card. It was a lot of paperwork and what I considered to be silly bureaucracy, but I enjoyed the organizational aspect of the task and some parts of it felt good to feel a part of “the system” again after so long.
 

@@ -2,6 +2,8 @@
 layout: post
 category: newsletter
 title: "Home from Argentina! What a year..."
+date: 2020-01-21
+image: /assets/img/jordanlau.jpg
 ---
 
 <em>Hi folks! Friends and family, loved ones of all degree:</em>

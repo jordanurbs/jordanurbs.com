@@ -18,7 +18,10 @@ entries:
 
   - title: rss
     url: feed.xml
-  
+
+  - title: telegram
+    url: https://t.me/gourshanne
+
   - title: projects
     entries:
       - title: perceptions.live
@@ -29,9 +32,9 @@ entries:
         url: https://strengthen.pele.io
   - title: music
     entries:
-      - title: gourshanne
+      - title: gourshanne x JordanAccordion
         url: https://soundcloud.com/jordanurbs/tracks
-      - title: jordanccordion
+      - title: jordanccordion yt
         url: https://youtube.com/jordanaccordion
   - title: video
     entries:

@@ -2,7 +2,7 @@
 layout: post
 category: newsletter
 title: "Home from Argentina! What a year..."
-date: 2020-01-21
+date: 2021-01-20
 image: /assets/img/jordanlau.jpg
 ---
 

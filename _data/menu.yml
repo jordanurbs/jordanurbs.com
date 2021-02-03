@@ -22,6 +22,9 @@ entries:
   - title: telegram
     url: https://t.me/gourshanne
 
+  - title: cointr.ee
+    url: https://cointr.ee/gourshanne
+
   - title: projects
     entries:
       - title: perceptions.live
@@ -38,7 +41,7 @@ entries:
         url: https://youtube.com/jordanaccordion
   - title: video
     entries:
-      - title: perception travel tv
+      - title: perceptiontravel.tv
         url: https://perceptiontravel.tv  
       - title: jordanurbs yt
         url: https://youtube.com/jordanurbs

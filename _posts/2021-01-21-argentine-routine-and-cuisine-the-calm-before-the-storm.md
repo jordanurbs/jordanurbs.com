@@ -2,7 +2,7 @@
 layout: post
 category: newsletter
 title: "Argentine Routine & Cuisine, in the calm before the storm."
-date: 2021-02-03
+date: 2021-01-21
 
 ---
 Hi all!

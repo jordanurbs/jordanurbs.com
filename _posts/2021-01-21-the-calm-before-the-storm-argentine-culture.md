@@ -3,7 +3,7 @@ layout: post
 category: newsletter
 title: "Getting accustomed to the Argentine way of life, in the calm before the storm."
 date: 2021-02-03
-image: 
+
 ---
 Hi all!
 

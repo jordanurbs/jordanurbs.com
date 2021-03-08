@@ -1,7 +1,7 @@
 ---
 layout: post
 category: newsletter
-title: "Videos of our Pregnancy Photoshoot (feb 2020) and Zoom Wedding (feb 2021)"
+title: "Chapter 2 + Pregnancy Photoshoot (feb 2020) and Zoom Wedding (feb 2021)"
 date: 2021-02-23
 excerpt: "Greetings from the other side! Lau and I finally tied the knot with the state and we are officially legally wed. (It took 13 months from the time of our actual "wedding" celebration.) And it happened on Zoom. Weird times to be sure, but it's one more bureaucratic step forward that hints at the light at the other end of the tunnel that began a year ago. "
 image: /assets/img/zoomweddingjolau.jpg
